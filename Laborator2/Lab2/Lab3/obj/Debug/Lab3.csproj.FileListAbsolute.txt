@@ -1,0 +1,13 @@
+C:\Users\anabu\OneDrive\Documente\Anul 3\EGC\Lab3\Lab3\bin\Debug\Lab3.exe.config
+C:\Users\anabu\OneDrive\Documente\Anul 3\EGC\Lab3\Lab3\bin\Debug\Lab3.exe
+C:\Users\anabu\OneDrive\Documente\Anul 3\EGC\Lab3\Lab3\bin\Debug\Lab3.pdb
+C:\Users\anabu\OneDrive\Documente\Anul 3\EGC\Lab3\Lab3\bin\Debug\OpenTK.dll
+C:\Users\anabu\OneDrive\Documente\Anul 3\EGC\Lab3\Lab3\bin\Debug\OpenTK.GLControl.dll
+C:\Users\anabu\OneDrive\Documente\Anul 3\EGC\Lab3\Lab3\bin\Debug\OpenTK.pdb
+C:\Users\anabu\OneDrive\Documente\Anul 3\EGC\Lab3\Lab3\bin\Debug\OpenTK.xml
+C:\Users\anabu\OneDrive\Documente\Anul 3\EGC\Lab3\Lab3\bin\Debug\OpenTK.GLControl.pdb
+C:\Users\anabu\OneDrive\Documente\Anul 3\EGC\Lab3\Lab3\bin\Debug\OpenTK.GLControl.xml
+C:\Users\anabu\OneDrive\Documente\Anul 3\EGC\Lab3\Lab3\obj\Debug\Lab3.csproj.CoreCompileInputs.cache
+C:\Users\anabu\OneDrive\Documente\Anul 3\EGC\Lab3\Lab3\obj\Debug\Lab3.csproj.CopyComplete
+C:\Users\anabu\OneDrive\Documente\Anul 3\EGC\Lab3\Lab3\obj\Debug\Lab3.exe
+C:\Users\anabu\OneDrive\Documente\Anul 3\EGC\Lab3\Lab3\obj\Debug\Lab3.pdb
