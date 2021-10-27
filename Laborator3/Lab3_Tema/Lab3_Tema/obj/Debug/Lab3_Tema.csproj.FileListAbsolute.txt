@@ -1,0 +1,14 @@
+C:\Users\anabu\OneDrive\Documente\Anul 3\EGC\Lab3_Tema\Lab3_Tema\obj\Debug\Lab3_Tema.csprojAssemblyReference.cache
+C:\Users\anabu\OneDrive\Documente\Anul 3\EGC\Lab3_Tema\Lab3_Tema\obj\Debug\Lab3_Tema.csproj.CoreCompileInputs.cache
+C:\Users\anabu\OneDrive\Documente\Anul 3\EGC\Lab3_Tema\Lab3_Tema\bin\Debug\Lab3_Tema.exe.config
+C:\Users\anabu\OneDrive\Documente\Anul 3\EGC\Lab3_Tema\Lab3_Tema\bin\Debug\Lab3_Tema.exe
+C:\Users\anabu\OneDrive\Documente\Anul 3\EGC\Lab3_Tema\Lab3_Tema\bin\Debug\Lab3_Tema.pdb
+C:\Users\anabu\OneDrive\Documente\Anul 3\EGC\Lab3_Tema\Lab3_Tema\bin\Debug\OpenTK.dll
+C:\Users\anabu\OneDrive\Documente\Anul 3\EGC\Lab3_Tema\Lab3_Tema\bin\Debug\OpenTK.GLControl.dll
+C:\Users\anabu\OneDrive\Documente\Anul 3\EGC\Lab3_Tema\Lab3_Tema\bin\Debug\OpenTK.pdb
+C:\Users\anabu\OneDrive\Documente\Anul 3\EGC\Lab3_Tema\Lab3_Tema\bin\Debug\OpenTK.xml
+C:\Users\anabu\OneDrive\Documente\Anul 3\EGC\Lab3_Tema\Lab3_Tema\bin\Debug\OpenTK.GLControl.pdb
+C:\Users\anabu\OneDrive\Documente\Anul 3\EGC\Lab3_Tema\Lab3_Tema\bin\Debug\OpenTK.GLControl.xml
+C:\Users\anabu\OneDrive\Documente\Anul 3\EGC\Lab3_Tema\Lab3_Tema\obj\Debug\Lab3_Tema.csproj.CopyComplete
+C:\Users\anabu\OneDrive\Documente\Anul 3\EGC\Lab3_Tema\Lab3_Tema\obj\Debug\Lab3_Tema.exe
+C:\Users\anabu\OneDrive\Documente\Anul 3\EGC\Lab3_Tema\Lab3_Tema\obj\Debug\Lab3_Tema.pdb
